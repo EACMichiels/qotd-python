@@ -32,6 +32,10 @@ quotes = [
      'quotation': 'Anyone who has ever made anything of importance was disciplined.',
      'author': 'Andrew Hendrixson',
      'hostname': '{hostname}'},
+    {'id': 6,
+     'quotation': 'Work done with pleasure, does not tire.',
+     'author': 'Eric Michiels',
+     'hostname': '{hostname}'},
 ]
 
 @app.route('/', methods=['GET'])
